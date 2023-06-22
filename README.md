@@ -1,6 +1,4 @@
-## Install Docker Engine,
-
-https://docs.docker.com/engine/install/ubuntu/
+### Install Docker Engine, https://docs.docker.com/engine/install/ubuntu/
 
 
 ### Run the following command to uninstall all conflicting packages,
