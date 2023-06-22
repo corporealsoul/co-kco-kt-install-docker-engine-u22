@@ -1,4 +1,4 @@
-## Install Docker Engine on Ubuntu,
+## Install Docker Engine,
 
 https://docs.docker.com/engine/install/ubuntu/
 
